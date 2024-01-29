@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <!--Domanda1 -->
+  <title>Morandi Luigi</title>  <!--Domanda1 -->
+  <link rel="stylesheet" type="text/css" href="morandi_Luigi.css">
+</head>
+<body background="https://wallpapers.com/images/featured/liverpool-rfeuh3u9g2g2p0g7.jpg" width="100%" height="100%">
+    <h1 style="text-align: center;">LIVERPOOL</h1>
+    <div id="bordo">
+        <h2>Il Liverpool di Kloop</h2>
+        <p>L’imprinting del calcio di Klopp, sostanzialmente, non è mai cambiato. Se ricordate  il suo Borussia Dortmund ‘dei miracoli’ nella stagione 2013 certamente avrete già una linea di massima da dove partite. Lo schema è il 4-3-3, il gioco verticale resta il credo, così come la riconquista alta del pallone (anche se con cambiamenti evidenti rispetto al recente passato, ma ne scriveremo nello specifico più avanti). Tre punte velocissime e brave a giocare inserendosi negli spazi – Mané-Firmino-Salah – una linea difensiva a quattro con due esterni che sono la vera scoperta di Klopp – Alexander-Arnold, Lovren, van Dijk, Robertson – e una mediana solitamente composta dall’esperienza e la duttilità di James Milner, dalla regia di Jordan Henderson e dall’energia di un ritrovato Oxlade-Chamberlain. In porta c’è un tedesco di nome Karius. E anche su lui, due righe, le spenderemo più avanti.</p>
+    </div>
+    <a href="https://www.liverpoolfc.com/news" target="_blank"style="float: left;font-size: 30px;">NEWS&nbsp;&nbsp;&nbsp;</a> <!--Domanda 2-->
+    <a href="https://www.liverpoolfc.com/team/mens" target="_blank" style="font-size: 30px;">FIXTURES & TEAMS</a><br><br> <!--Domanda 2-->
+    <a href="https://www.goal.com/it/notizie/juergen-klopp-mainz/1lrp9qrwbc6yv1l2bnsgvhu2ad" target="_blank">
+        <img src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/27/2024/01/liverpool-klopp-1706273348513.jpg" alt="Jurgen Klopp" width="40%"> <!--Domanda 2-->
+    </a><br><br>
+    <table style="float: left;">  <!--Domanda3 -->
+        <tr>
+            <th>Portieri</th>
+            <th>Difensori</th>
+            <th>Centrocampisti</th>
+        </tr>
+        <tr>
+            <td>Alisson</td>
+            <td>Van Dijk</td>
+            <td>
+                <ul>
+                    <li>Endo</li>
+                    <li>Thiago</li>
+                    <li>Mcallister</li>
+                    <li>Gravenbergh</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Adrian</td>
+            <td>
+                <ol>
+                    <li>Gomez</li>
+                    <li>konate</li>
+                    <li>Robertson</li>
+                    <li>Matip</li>
+                </ol>
+            </td>
+            <td>&nbsp;&nbsp;Jones</td>
+        </tr>
+        <tr>
+            <td>Kelleher</td>
+            <td>&nbsp;Alexandre Arnold</td>
+            <td>&nbsp;&nbsp;Szoboslay</td>
+        </tr>
+    </table>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/grDkPbXUZwo?si=mBwpOnS5EwYn6PEC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br><br><br><br>
+    <div id="demo">  <!--Domanda4 -->
+        YOU WILL NEVER WALK ALONE
+    </div>
+    <script>
+        function myFunction() {
+                document.getElementById("demo").style.fontSize = "25px"; 
+                document.getElementById("demo").style.color = "red";
+                document.getElementById("demo").style.backgroundColor = "yellow";    
+    }
+    alert("la modifica del testo si ottiene con il pulsante cliccami")
+    </script>
+    <button type="button" onclick="myFunction()">cliccami!</button>
+    <img src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/27/2023/12/salah-4.jpg" alt="Salah" width="220" height="235">  <!--Domanda5 -->
+    <map name="giocatore" id="giocatore">
+        <area shape="rect" coords="14, 24, 35, 37" href="https://www.transfermarkt.it/mohamed-salah/leistungsdaten/spieler/148455" target="_blank" alt="Stats">  <!--Domanda5 -->
+        <area shape="circle" coords="45, 156, 29" href="https://www.transfermarkt.it/mohamed-salah/profil/spieler/148455" target="_blank" alt="Info">
+        <area shape="poly" coords="105, 199, 115, 197, 121, 200, 131, 201, 139, 198, 150, 197, 156, 195, 151, 201, 145, 209, 148, 212, 150, 219, 152, 225, 147, 227, 144, 231, 128, 221, 119, 219, 113, 212, 108, 212, 102, 210, 98, 205" href="https://www.transfermarkt.it/mohamed-salah/profil/spieler/148455" target="_blank" alt="">
+    </map>
+    <div id="inno">
+        When you walk through a storm
+Hold your head up high
+And don't be afraid of the dark
+
+Quando cammini attraverso una tempesta
+Mantieni la testa alta
+E non avere paura del buio
+
+At the end of the storm
+Is a golden sky
+And the sweet silver song of a lark
+
+Alla fine della tempesta
+C'è un cielo dorato
+E il dolce canto argentato di un'allodola
+
+Walk on through the wind
+Walk on through the rain
+Though your dreams be tossed and blown
+
+Continua a camminare attraverso il vento
+Continua a camminare attraverso la pioggia
+Anche se i tuoi sogni verranno scossi e spazzati via
+
+Walk on walk on with hope in your heart
+And you'll never walk alone
+    </div>
+</body>
+</html>
